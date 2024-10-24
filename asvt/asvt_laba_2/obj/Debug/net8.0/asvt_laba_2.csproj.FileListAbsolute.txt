@@ -1,0 +1,14 @@
+/home/overg/Документы/asvt/asvt_laba_2/bin/Debug/net8.0/asvt_laba_2
+/home/overg/Документы/asvt/asvt_laba_2/bin/Debug/net8.0/asvt_laba_2.deps.json
+/home/overg/Документы/asvt/asvt_laba_2/bin/Debug/net8.0/asvt_laba_2.runtimeconfig.json
+/home/overg/Документы/asvt/asvt_laba_2/bin/Debug/net8.0/asvt_laba_2.dll
+/home/overg/Документы/asvt/asvt_laba_2/bin/Debug/net8.0/asvt_laba_2.pdb
+/home/overg/Документы/asvt/asvt_laba_2/obj/Debug/net8.0/asvt_laba_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/overg/Документы/asvt/asvt_laba_2/obj/Debug/net8.0/asvt_laba_2.AssemblyInfoInputs.cache
+/home/overg/Документы/asvt/asvt_laba_2/obj/Debug/net8.0/asvt_laba_2.AssemblyInfo.cs
+/home/overg/Документы/asvt/asvt_laba_2/obj/Debug/net8.0/asvt_laba_2.csproj.CoreCompileInputs.cache
+/home/overg/Документы/asvt/asvt_laba_2/obj/Debug/net8.0/asvt_laba_2.dll
+/home/overg/Документы/asvt/asvt_laba_2/obj/Debug/net8.0/refint/asvt_laba_2.dll
+/home/overg/Документы/asvt/asvt_laba_2/obj/Debug/net8.0/asvt_laba_2.pdb
+/home/overg/Документы/asvt/asvt_laba_2/obj/Debug/net8.0/asvt_laba_2.genruntimeconfig.cache
+/home/overg/Документы/asvt/asvt_laba_2/obj/Debug/net8.0/ref/asvt_laba_2.dll
